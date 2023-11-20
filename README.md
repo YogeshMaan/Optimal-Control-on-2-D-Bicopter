@@ -46,6 +46,15 @@ In the following, we code the forward pass of the loss using [PyTorch](https://p
 
 ---
 
-## 2. Sample Code
 
-Before start, please make sure you install the PyTorch package in Python. If you are using Pycharm, you can do so through *setting*->*Project: Your Project Name*->*Project Interpreter*->*Install (the little plus sign to the right of the window)*.
+
+## 2. Analysis of the result
+- [ ] Create table of each case, Parameters, Link to gif/plot, Remarks.
+- [ ] Can I get gif of all the plots for a training (epoch 50)?
+    
+## 3. Issues encountered
+
+1. Spining of the dynamic body
+2. Adding angle error to loss funtion.
+3. sensitivity to gravity
+4. Adding -ive thrust 
